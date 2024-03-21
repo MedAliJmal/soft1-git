@@ -22,3 +22,11 @@ Git : VCS : Version Control System : Command line : to apply commands used to ge
 
 -------------------------- GIT COMMANDS ------------------
 
+1 - git init : initialize an empty git repository (local repository ( Dossier caché .git ))
+2 - git add . : create the staging area and filters the files to be uploaded.
+** git status : checks what happened in the staging area
+** git rm --cashed : deletes files from staging area (or deletes the file from staging area & folder if you remove --cashed)
+3 - git commit -m "text" :  closes the staging area and confirms the files to be uploaded.
+4 - git Branch -M ... : defines the branch that you are working on.
+5 - git remote -u origin urlremoterep.git : defines the specific remote repository to be uploaded on.
+6 - git push -u origin : is the final command to upload the files.
