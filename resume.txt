@@ -1,0 +1,24 @@
+####################################### RESUME GIT & GITHUB #######################################
+1 - First thing to do is to config your git : set your user.name & your user.email
+- Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+- Set your email address: git config --global user.email "MY_NAME@example.com"
+
+2- You can verify your config using this command :
+
+git config --list
+
+
+-------------------------- STEPS TO UPLOAD PROJECT TO GITHUB USING GIT -----------------------------
+
+Github : online platform : creation of an account / you'll be able to create remote repository
+
+Git : VCS : Version Control System : Command line : to apply commands used to get your project form pc to the Github
+
+-------------------------- Advantages --------------------
+* Data redundancy and replication. (copy)
+* High availability
+* Superior disk space & network performance
+* Collaboration.
+
+-------------------------- GIT COMMANDS ------------------
+
